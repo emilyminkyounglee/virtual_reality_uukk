@@ -4,7 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7210abc5-6097-4c16-a72a-1b49257b2871" name="변경" comment="" />
+    <list default="true" id="7210abc5-6097-4c16-a72a-1b49257b2871" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My project (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project (1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/D05_LoadScene.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/D05_LoadScene.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/DoorToOtherScene.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/DoorToOtherScene.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Floor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Floor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Grabable.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Grabable.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Wood.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Wood.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/brown-wood-textured-background-with-design-space_53876-160425.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/brown-wood-textured-background-with-design-space_53876-160425.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_diffuse_4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_diffuse_4k.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_disp_4k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_disp_4k.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_rough_4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_rough_4k.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Grab.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Grab.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Move.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Move.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Ray.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Ray.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Teleport.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Teleport.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Turn.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Turn.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Environment_Ladder_Cliff.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Environment_Ladder_Cliff.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Mat_LineRenderer.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Mat_LineRenderer.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Mat_TeleportMarker.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Mat_TeleportMarker.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Player_OVRInput_Parts.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Player_OVRInput_Parts.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/TeleportMarker.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/TeleportMarker.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,25 +70,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "mkl__branch",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mkl__branch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/minkyoung_lee/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/minkyoung_lee/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/minkyoung_lee/Library/Application Support/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/minkyoung_lee/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/minkyoung_lee/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/minkyoung_lee/Library/Application Support/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Unity 에디터에 연결.Unity 에디터에 연결">
     <configuration name="유닛 테스트(배치 모드)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/MacOS/Unity" />
@@ -91,6 +137,8 @@
       <updated>1773755139345</updated>
       <workItem from="1773755142052" duration="4000" />
       <workItem from="1773892905346" duration="3101000" />
+      <workItem from="1775102314699" duration="4000" />
+      <workItem from="1775102715313" duration="1936000" />
     </task>
     <servers />
   </component>
