@@ -17,9 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/D05_Zone4.unity
     guid: 080f4bb4862d5084ebbe768162d0c912
-  - enabled: 1
+  - enabled: 0
     path: Assets/D10/D10_Experiments/D10_Experiments.unity
     guid: 18c31de4e9558a449814779c12407ad6
+  - enabled: 1
+    path: Assets/hw09_mk/mk_hw9.unity
+    guid: d6add27850de44b48a4a14ff2e1f3c35
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e294f13855b524688815e3911bc94fc5, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b3e768e410b8a46978e28aac0b609b45, type: 2}

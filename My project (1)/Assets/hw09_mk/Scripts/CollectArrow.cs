@@ -1,17 +1,26 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class CollectArrow : MonoBehaviour
 {
     public LevelManager levelManager;
 
-    void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
-        if (other.GetComponent<CharacterController>() != null)
+        Debug.Log("트리거 감지: " + other.name);
+
+        if (!other.CompareTag("Player")) return;
+
+        Debug.Log("플레이어 접촉");
+
+        if (levelManager != null)
         {
             levelManager.CollectArrow();
-            Destroy(gameObject);
         }
+        else
+        {
+            Debug.LogWarning("LevelManager 연결 안 됨");
+        }
+
+        gameObject.SetActive(false);
     }
 }

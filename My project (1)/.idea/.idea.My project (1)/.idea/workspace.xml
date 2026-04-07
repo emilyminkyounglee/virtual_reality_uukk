@@ -6,50 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7210abc5-6097-4c16-a72a-1b49257b2871" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project (1)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/D05_LoadScene.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/D05_LoadScene.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/DoorToOtherScene.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/DoorToOtherScene.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Floor.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Floor.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Grabable.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Grabable.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Wood.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/Mat_Wood.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/brown-wood-textured-background-with-design-space_53876-160425.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/brown-wood-textured-background-with-design-space_53876-160425.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_diffuse_4k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_diffuse_4k.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_disp_4k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_disp_4k.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_rough_4k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/D05_4Zones/forest_leaves_02_rough_4k.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Grab.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Grab.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Move.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Move.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Ray.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Ray.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Teleport.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Teleport.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Turn.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/EX_OVRInput_Turn.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Environment_Ladder_Cliff.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Environment_Ladder_Cliff.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Mat_LineRenderer.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Mat_LineRenderer.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Mat_TeleportMarker.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Mat_TeleportMarker.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Player_OVRInput_Parts.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/Player_OVRInput_Parts.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/TeleportMarker.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EX_OVRInput/TeleportMarker.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/hw09_mk/Scripts/CollectArrow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/hw09_mk/Scripts/CollectArrow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/hw09_mk/Scripts/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/hw09_mk/Scripts/LevelManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/hw09_mk/destination.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/hw09_mk/destination.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/hw09_mk/mk_hw9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/hw09_mk/mk_hw9.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +22,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/hw09_mk/Scripts/SimpleTestPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.meta.xr.sdk.core@85.0.0/Editor/MetaXRSimulator/Installer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.openxr@1.14.3/Runtime/OpenXRProjectValidation.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -139,6 +103,7 @@
       <workItem from="1773892905346" duration="3101000" />
       <workItem from="1775102314699" duration="4000" />
       <workItem from="1775102715313" duration="1936000" />
+      <workItem from="1775554114894" duration="4140000" />
     </task>
     <servers />
   </component>
